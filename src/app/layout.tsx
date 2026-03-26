@@ -146,7 +146,7 @@ export default function RootLayout({
             {children}
           </main>
           <Footer />
-          <TawkToScript />
+          {/* <TawkToScript /> */}
           <MobileWaitlistButton />
         </Providers>
       </body>
